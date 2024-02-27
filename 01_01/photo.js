@@ -67,4 +67,6 @@ Photo.propTypes = {
   direction: PropTypes.string,
 };
 
+//add
+
 export default Photo; 
